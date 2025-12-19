@@ -1,4 +1,4 @@
-/*You will be given four digits, each from 0–9.
+/*You will be given four digits, each from 0–9..
 Your task is to combine them into a single 4-digit number in the same order and multiply it by 5 to get the final number.*/
 
 #include <stdio.h>
