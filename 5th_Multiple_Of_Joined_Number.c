@@ -1,5 +1,21 @@
-/*You will be given four digits, each from 0–9..
-Your task is to combine them into a single 4-digit number in the same order and multiply it by 5 to get the final number.*/
+/*You will be given four digits, each from 0–9.
+Your task is to combine them into a single 4-digit number in the same order and multiply it by 5 to get the final number.
+
+Important Instructions
+
+Do NOT write the entire logic in main().
+Create a function int buildNumber(int a, int b, int c, int d) and call it from main().
+Input Format
+
+Four digits: {A} {B} {C} {D}
+
+Constraints
+
+0 ≤ each digit ≤ 9
+Output Format
+
+Single line printing the result as: The number is: {(ABCD)*5}*/
+
 
 #include <stdio.h>
 #include <string.h>
