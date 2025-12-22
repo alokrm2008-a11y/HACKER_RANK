@@ -1,4 +1,18 @@
-// Write a program to swap two numbers.
+/*Write a program to swap two numbers.
+
+Input Format
+
+Two unique integers a and b
+
+Constraints
+
+-10^6 <= a <= 10^6
+-10^6 <= b <= 10^6
+Output Format
+
+Two lines printing the swapped values of a and b*/
+
+
 
 #include <stdio.h>
 
