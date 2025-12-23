@@ -1,4 +1,4 @@
-/*Given a positive integer N, print all its factors in ascending order.
+/*Given a positive integer N, print all its factors in ascending order. 
 
 You need to write a program that reads N and prints all its factors separated by spaces.
 
