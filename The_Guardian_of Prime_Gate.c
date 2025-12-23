@@ -1,4 +1,4 @@
-/*In the ancient kingdom of Zabiria, there exists a magical gate known as the Prime Gate.
+/*In the ancient kingdom of Zabiria, there exists a magical gate known as the Prime Gate. 
 
 The gate reacts differently depending on the nature of the number it receives:
 
