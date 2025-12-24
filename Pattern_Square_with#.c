@@ -12,7 +12,7 @@ Constraints
 -50 <= n <= 50
 Output Format
 
-A square pattern, for n=5, as described below:*/
+A square pattern*/
 
 
 #include <stdio.h>
