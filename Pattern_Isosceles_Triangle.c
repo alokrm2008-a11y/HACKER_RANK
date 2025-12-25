@@ -14,7 +14,7 @@ Constraints
 -50 ≤ n ≤ 50
 Output Format
 
-Print the isosceles triangle pattern consisting on n rows.
+Print the isosceles triangle pattern consisting on n rows. 
 Print "Shape Not Possible" if the triangle cannot be drawn.*/
 
 
