@@ -8,7 +8,7 @@ Constraints
 0 ≤ N ≤ 1000
 Output Format
 
-A single line containing the series, separated by spaces.*/
+A single line containing the series, separated by spaces .*/
 
 
 #include <stdio.h>
