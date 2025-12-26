@@ -11,7 +11,7 @@ Constraints
 -1000 ≤ d ≤ 1000
 Output Format
 
-Print the first n terms of the AP in a single line, separated by spaces..*/
+Print the first n terms of the AP in a single line, separated by spaces.*/
 
 
 
