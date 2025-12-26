@@ -5,7 +5,6 @@ Input Format
 An integer n, which represents the number of multiples to print.
 An integer x, which represents the number whose multiples need to be printed.
 Constraints
-
 0 ≤ n ≤ 1000
 -1000 ≤ x ≤ 1000
 Output Format
