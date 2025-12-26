@@ -3,7 +3,7 @@
 If n is even, then n = n / 2.
 If n is odd, then n = 3*n + 1.
 Repeat above steps, until it becomes 1.
-Input Format
+Input Format 
 
 A single integer n.
 Constraints
