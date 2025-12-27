@@ -16,6 +16,7 @@ Output Format
 
 Single line printing the result as: The number is: {(ABCD)*5}*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 #include <string.h>
