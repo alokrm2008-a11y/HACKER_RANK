@@ -15,7 +15,7 @@ Constraints
 Output Format
 
 Print the required pattern
-Each row should be printed on a new line*/ 
+Each row should be printed on a new line*/  
 
 
 ------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
