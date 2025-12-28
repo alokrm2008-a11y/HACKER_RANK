@@ -11,6 +11,9 @@ Output Format
 A single line containing the first n terms of the sequence, separated by spaces*/
 
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
 #include <stdio.h>
 
 int main() {
