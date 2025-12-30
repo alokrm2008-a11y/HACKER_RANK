@@ -13,6 +13,8 @@ Output Format
 
 A single line containing the sequence of numbers, separated by a ( -> ).*/
 
+----------------------------------------------------------------------[Answer]-------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 
 int main() {
