@@ -1,5 +1,7 @@
 // A shop offers a discount on an item based on a percentage.
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
