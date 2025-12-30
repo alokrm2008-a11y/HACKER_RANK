@@ -19,6 +19,10 @@ Output Format
 Single line printing the result as:
 Total seconds: {res}*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
