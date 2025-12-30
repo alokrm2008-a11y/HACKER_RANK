@@ -15,6 +15,9 @@ Output Format
 
 Single line printing the output as: {A} {B} {C}*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
