@@ -12,6 +12,13 @@ Output Format
 
 Print the updated value of n after setting the i-th bit.*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+#include <stdio.h>
+
+int main() {
+
+
 #include <stdio.h>
 
 int main() {
