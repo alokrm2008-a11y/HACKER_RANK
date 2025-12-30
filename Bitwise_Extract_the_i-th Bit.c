@@ -12,7 +12,7 @@ Output Format
 
 Output a single integer, which is the value of the i-th bit of n (either 0 or 1)*/
 
-
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 
