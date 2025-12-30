@@ -23,6 +23,7 @@ A single line containing one of the following results:
 "Z outsmarts X!"
 "X remains undefeated!"*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 
 #include <stdio.h>
