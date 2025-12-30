@@ -15,6 +15,7 @@ Output Format
 The first line contains the swapped value of A.
 The second line contains the swapped value of B.*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 
