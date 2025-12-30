@@ -11,6 +11,8 @@ Output Format
 Print "Yes" if the number is a multiple of 4.
 Print "No" otherwise*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 
 int main() {
