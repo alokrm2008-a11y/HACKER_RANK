@@ -13,6 +13,8 @@ Output Format
 Print Even if N is an even number.
 Print Odd if N is an odd number.*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 
 int main() {
