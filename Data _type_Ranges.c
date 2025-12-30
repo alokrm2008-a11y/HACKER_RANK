@@ -1,5 +1,7 @@
 /*In C, every data type has a specific range of values it can store. Write a program to display the minimum and maximum values for the following data types:*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
