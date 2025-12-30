@@ -14,6 +14,10 @@ Output Format
 Single line printing the result as:
 The distance between {char1} and {char2} is {value}*/
 
+
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
