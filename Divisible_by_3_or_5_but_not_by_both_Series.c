@@ -11,6 +11,8 @@ Output Format
 A single line containing numbers between 1 and n (inclusive) that are divisible by either 3 or 5, but not both, separated by spaces. If no such numbers exist, print nothing.*/
 
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
