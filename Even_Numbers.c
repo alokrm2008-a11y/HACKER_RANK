@@ -10,6 +10,8 @@ Output Format
 
 Print all even numbers from 1 to N (inclusive), separated by a space.*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 
 #include <stdio.h>
 
