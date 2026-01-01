@@ -1,5 +1,8 @@
 // Check a person is eligible for vote casting or not.
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
