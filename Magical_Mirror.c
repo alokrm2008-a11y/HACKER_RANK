@@ -24,9 +24,11 @@ Constraints
 
 Output Format
 
-A single line, "The verdict for the number [N] is: [RESULT]"
+A single line, "The verdict for the number [N] is: [RESULT]"*/
 
-*/
+
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 
 
 #include <stdio.h>
