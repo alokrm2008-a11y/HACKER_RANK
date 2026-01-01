@@ -1,5 +1,8 @@
 /*Here is a simple and correct C program using an if–else-if ladder to check whether a given year is a leap year:*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
