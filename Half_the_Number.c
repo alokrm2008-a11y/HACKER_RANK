@@ -1,5 +1,8 @@
 /*Write a program that takes an integer as input and print its half value as a floating-point number with 2 decimals.*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
