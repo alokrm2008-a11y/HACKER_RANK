@@ -51,6 +51,10 @@ Print one of the following messages based on the risk level:
 "High Risk Portfolio: Suitable for aggressive investors with high-risk tolerance."*/
 
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
+
+
 
 #include <stdio.h>
 
