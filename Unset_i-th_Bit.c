@@ -10,7 +10,7 @@ Constraints
 0 ≤ i ≤ 31
 Output Format
 
-Print the updated value of n after unsetting the i-th bit.*/
+Print the updated value of n after unsetting the i-th bit.*/ 
 
 
 ----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
