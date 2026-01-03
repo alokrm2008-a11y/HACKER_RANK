@@ -17,7 +17,7 @@ A symmetric arrowhead pattern, for n=5, as described below:
 **
 * *
 *  *
-*   *
+*   * 
 *  *
 * *
 **
