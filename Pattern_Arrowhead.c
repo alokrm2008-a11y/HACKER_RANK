@@ -25,7 +25,7 @@ A symmetric arrowhead pattern, for n=5, as described below:
 Print "Shape Not Possible" if the arrowhead cannot be drawn.*/
 
 
-
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 
 #include <stdio.h>
