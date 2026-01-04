@@ -16,7 +16,7 @@ Constraints
 
 1 ≤ N ≤ 10⁵
 All inputs are valid
-Output Format
+Output Format 
 
 Print the FizzBuzz sequence from 1 to N, each value on a separate line.*/
 
