@@ -20,6 +20,8 @@ Output Format
 
 Print the FizzBuzz sequence from 1 to N, each value on a separate line.*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
