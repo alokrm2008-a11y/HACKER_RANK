@@ -16,6 +16,7 @@ Output Format
 Print,"[N] is a harshad number" if N is a Harshad number.
 Print, "[N] is not a harshad number" otherwise.*/
 
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 #include <string.h>
