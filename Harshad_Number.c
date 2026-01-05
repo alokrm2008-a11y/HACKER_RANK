@@ -5,7 +5,7 @@ If the number is divisible by this sum, it is a Harshad Number.
 Otherwise, it is not a Harshad Number.
 Input Format
 
-A single integer 𝑁.
+A single integer 𝑁. 
 
 Constraints
 
