@@ -14,7 +14,7 @@ Output Format
 Print a single integer representing: (product of digits of n) − (sum of digits of n)*/
 
 
-
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 
 #include <stdio.h>
