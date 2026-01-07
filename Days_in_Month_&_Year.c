@@ -25,7 +25,7 @@ If both inputs are valid, output an integer representing the number of days in t
 If the month is invalid, output "Invalid Month".
 If the year is invalid, output "Invalid Year".*/
 
-
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 #include <string.h>
