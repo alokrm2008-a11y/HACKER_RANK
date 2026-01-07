@@ -17,7 +17,7 @@ Constraints
 
 -10^6 ≤ year ≤ 10^6
 
--10^6 ≤ month ≤ 10^6
+-10^6 ≤ month ≤ 10^6 
 
 Output Format
 
