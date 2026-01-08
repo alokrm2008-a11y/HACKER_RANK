@@ -13,7 +13,7 @@ A single line containing two space-separated natural numbers A and B
 Constraints
 
 1 ≤ 𝐴, 𝐵 ≤ 10^9
-Output Format
+Output Format 
 
 Print a single integer i.e. the GCD of A and B*/
 
