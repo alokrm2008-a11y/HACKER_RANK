@@ -17,7 +17,7 @@ Output Format
 
 Print a single integer — the count of digits that divide num*/
 
-
+----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 #include <string.h>
