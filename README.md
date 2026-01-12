@@ -1,2 +1,1 @@
-# HACKER_RANK_
-Here I am uploading Hacker Rank Questions that i have solved.
+Hacker Rank Exercise is a collection of C programming solutions to various HackerRank challenges. This repository is designed for developers who want to explore clean, well-structured C implementations of common algorithmic and data-structure problems.
