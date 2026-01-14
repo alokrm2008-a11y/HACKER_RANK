@@ -10,10 +10,7 @@ Constraints
 0 ≤ i ≤ 31
 Output Format
 
-Print the updated value of n after unsetting the i-th bit.*/ 
-
-
-----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------
+Print the updated value of n after unsetting the i-th bit.*/
 
 #include <stdio.h>
 
