@@ -8,7 +8,7 @@ Constraints
 
 1 ≤ N ≤ 10^5
 −10^9 ≤ A[i] ≤ 10^9
-Output Format
+Output Format 
 
 Print two space-separated integers: the maximum and minimum values in the array.*/
 
