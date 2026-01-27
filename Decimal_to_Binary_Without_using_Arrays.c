@@ -10,7 +10,7 @@ Output Format
 
 A single integer number representing the binary equivalent of N, with a message, "Binary equivalent of [N]: [binaryForm]"*/
 
-
+ 
 /*----------------------------------------------------------------------[Answer]--------------------------------------------------------------------------------------------*/
 
 
