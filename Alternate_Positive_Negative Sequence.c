@@ -1,6 +1,6 @@
 /*Write a program to generate the first n terms of a sequence where the numbers alternate between positive and negative integers, starting with 1.
 
-Input Format
+Input Format 
 
 A single integer n.
 Constraints
