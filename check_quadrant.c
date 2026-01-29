@@ -1,5 +1,5 @@
 //Give x-axis and y-axis, and it will tell in which quardrant it will lie ?
-
+ 
 #include<stdio.h>
 int main(){
 
