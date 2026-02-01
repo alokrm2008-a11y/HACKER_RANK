@@ -9,7 +9,7 @@ The second line contains an integer B
 Constraints
 
 (-10^5 ≤ A ≤ 10^5)
-(-10^5 ≤ B ≤ 10^5)
+(-10^5 ≤ B ≤ 10^5) 
 Output Format
 
 The first line contains the swapped value of A.
